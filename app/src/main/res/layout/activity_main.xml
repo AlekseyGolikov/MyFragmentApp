@@ -61,7 +61,7 @@
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="20dp"
             android:layout_weight="1"
-            android:text="фрагмент 1" />
+            android:text="@string/frag1_header" />
 
         <Button
             android:id="@+id/btn_fragment2"
@@ -69,7 +69,7 @@
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="20dp"
             android:layout_weight="1"
-            android:text="фрагмент 2" />
+            android:text="@string/frag2_header" />
 
     </LinearLayout>
 
